@@ -1,0 +1,520 @@
+{
+    "Apple___Apple_scab": {
+        "description": "Apple scab is a fungal disease affecting leaves and fruit, caused by *Venturia inaequalis*.",
+        "symptoms": [
+            "Olive-green or brown spots on leaves",
+            "Scabby lesions on fruit",
+            "Premature leaf drop in severe cases"
+        ],
+        "solutions": [
+            "Apply fungicides (e.g., myclobutanil, captan)",
+            "Prune to improve air circulation",
+            "Remove and destroy infected leaves and fruit"
+        ]
+    },
+    "Apple___Black_rot": {
+        "description": "Black rot is a fungal disease caused by *Botryosphaeria obtusa*, affecting fruit, leaves, and branches.",
+        "symptoms": [
+            "Small, circular brown spots on leaves",
+            "Fruit rot starting at the blossom end",
+            "Cankers on branches"
+        ],
+        "solutions": [
+            "Prune infected branches and cankers",
+            "Apply fungicides (e.g., captan, mancozeb)",
+            "Remove mummified fruit"
+        ]
+    },
+    "Apple___Cedar_apple_rust": {
+        "description": "Cedar apple rust is a fungal disease caused by *Gymnosporangium juniperi-virginianae*, requiring both apple and cedar trees to complete its life cycle.",
+        "symptoms": [
+            "Yellow-orange spots on apple leaves",
+            "Raised, orange lesions on the underside of leaves",
+            "Galls on cedar trees"
+        ],
+        "solutions": [
+            "Remove galls from cedar trees",
+            "Apply fungicides (e.g., myclobutanil, propiconazole)",
+            "Plant resistant apple varieties"
+        ]
+    },
+    "Apple___healthy": {
+        "description": "Healthy apple trees show no signs of disease or pest infestation.",
+        "symptoms": [
+            "Dark green leaves without spots",
+            "Normal fruit development without lesions"
+        ],
+        "solutions": [
+            "Maintain proper watering and fertilization",
+            "Monitor for pests and diseases regularly",
+            "Ensure good air circulation"
+        ]
+    },
+    "Blueberry___healthy": {
+        "description": "Healthy blueberry plants exhibit vigorous growth and abundant fruit production.",
+        "symptoms": [
+            "Dark green leaves without spots or discoloration",
+            "Firm, ripe blueberries"
+        ],
+        "solutions": [
+            "Maintain acidic soil pH (4.5-5.5)",
+            "Provide adequate irrigation",
+            "Prune annually to promote air circulation"
+        ]
+    },
+    "Cherry___Powdery_mildew": {
+        "description": "Powdery mildew is a fungal disease caused by *Podosphaera clandestina*, resulting in a white, powdery growth on leaves and fruit.",
+        "symptoms": [
+            "White, powdery coating on leaves and stems",
+            "Stunted growth",
+            "Distorted leaves"
+        ],
+        "solutions": [
+            "Apply fungicides (e.g., sulfur, neem oil)",
+            "Prune to improve air circulation",
+            "Ensure adequate sunlight"
+        ]
+    },
+    "Cherry___healthy": {
+        "description": "Healthy cherry trees display vibrant green foliage and abundant fruit production.",
+        "symptoms": [
+            "Dark green leaves without powdery residue",
+            "Healthy-looking cherries",
+            "Vigorous growth"
+        ],
+        "solutions": [
+            "Maintain proper watering and fertilization",
+            "Monitor for pests and diseases",
+            "Prune to promote air circulation"
+        ]
+    },
+    "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+        "description": "Cercospora leaf spot (also known as gray leaf spot) is a fungal disease that affects corn plants.",
+        "symptoms": [
+            "Grayish-brown spots on leaves, starting on lower leaves and progressing upwards",
+            "Rectangular lesions parallel to leaf veins",
+            "Severe infections can lead to premature leaf death"
+        ],
+        "solutions": [
+            "Crop rotation to reduce inoculum levels",
+            "Use of disease-resistant corn varieties",
+            "Fungicide applications (e.g., strobilurins, triazoles) in severe cases"
+        ]
+    },
+    "Corn___Common_rust": {
+        "description": "Common rust is a fungal disease caused by *Puccinia sorghi* that affects corn plants.",
+        "symptoms": [
+            "Elongated, reddish-brown pustules on leaves",
+            "Pustules rupture to release reddish-brown spores",
+            "Severe infections can reduce photosynthetic capacity"
+        ],
+        "solutions": [
+            "Use of rust-resistant corn hybrids",
+            "Fungicide applications (e.g., strobilurins, triazoles) if necessary",
+            "Crop rotation and removal of infected plant debris"
+        ]
+    },
+    "Corn___Northern_Leaf_Blight": {
+        "description": "Northern leaf blight is a fungal disease caused by *Exserohilum turcicum* that affects corn plants.",
+        "symptoms": [
+            "Long, elliptical, gray-green to tan lesions on leaves",
+            "Lesions often start on lower leaves and progress upwards",
+            "Severe infections can cause significant yield losses"
+        ],
+        "solutions": [
+            "Use of resistant or tolerant corn hybrids",
+            "Crop rotation and residue management",
+            "Fungicide applications (e.g., strobilurins, triazoles) if warranted"
+        ]
+    },
+    "Corn___healthy": {
+        "description": "Healthy corn plants exhibit vigorous growth and dark green leaves without signs of disease or stress.",
+        "symptoms": [
+            "Uniform green color of leaves",
+            "Robust stalk growth",
+            "No signs of lesions or pustules"
+        ],
+        "solutions": [
+            "Proper fertilization and watering",
+            "Timely weed control",
+            "Monitoring for pests and diseases"
+        ]
+    },
+    "Grape___Black_rot": {
+        "description": "Black rot is a fungal disease caused by *Guignardia bidwellii* that affects grapevines.",
+        "symptoms": [
+            "Small, reddish spots on young leaves",
+            "Circular lesions on fruit that eventually turn black and hard",
+            "Infected berries shrivel and become mummified"
+        ],
+        "solutions": [
+            "Pruning to improve air circulation",
+            "Removal of mummified berries",
+            "Fungicide applications (e.g., copper-based fungicides, strobilurins)"
+        ]
+    },
+    "Grape___Esca (Black_Measles)": {
+        "description": "Esca (black measles) is a complex grapevine disease associated with several fungal pathogens.",
+        "symptoms": [
+            "Leaf spots with a reddish-brown border",
+            "Interveinal chlorosis (yellowing) on leaves",
+            "Dark streaks in the wood",
+            "Berry shrivel and necrosis"
+        ],
+        "solutions": [
+            "Preventive pruning and sanitation",
+            "Application of wound protectants after pruning",
+            "No effective curative treatments are available"
+        ]
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "description": "Isariopsis leaf spot (also known as leaf blight) is a fungal disease caused by *Isariopsis clavispora*.",
+        "symptoms": [
+            "Small, circular spots on leaves with a whitish center and dark border",
+            "Spots may merge to form larger lesions",
+            "Premature leaf drop in severe cases"
+        ],
+        "solutions": [
+            "Pruning to improve air circulation",
+            "Removal of infected leaves",
+            "Fungicide applications (e.g., copper-based fungicides)"
+        ]
+    },
+    "Grape___healthy": {
+        "description": "Healthy grapevines exhibit vigorous growth, dark green leaves, and abundant fruit production.",
+        "symptoms": [
+            "Uniform green color of leaves",
+            "Healthy-looking grapes",
+            "No signs of lesions or discoloration"
+        ],
+        "solutions": [
+            "Proper watering and fertilization",
+            "Timely pest and disease management",
+            "Pruning to maintain vine structure and health"
+        ]
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "description": "Huanglongbing (HLB), also known as citrus greening, is a bacterial disease caused by *Candidatus Liberibacter spp.*, transmitted by the Asian citrus psyllid.",
+        "symptoms": [
+            "Asymmetric blotchy mottling of leaves",
+            "Yellow shoots",
+            "Small, misshapen, and bitter fruit",
+            "Decline in tree health"
+        ],
+        "solutions": [
+            "Control of Asian citrus psyllids with insecticides",
+            "Use of disease-free planting material",
+            "Nutritional supplements and improved irrigation",
+            "In severe cases, removal of infected trees"
+        ]
+    },
+    "Peach___Bacterial_spot": {
+        "description": "Bacterial spot is a disease caused by the bacterium *Xanthomonas campestris pv. pruni* that affects peach, plum, and other stone fruit trees.",
+        "symptoms": [
+            "Small, dark, water-soaked spots on leaves",
+            "Shot-hole appearance on leaves (spots fall out)",
+            "Small, dark lesions on fruit that may crack",
+            "Cankers on twigs and branches"
+        ],
+        "solutions": [
+            "Pruning to improve air circulation",
+            "Application of copper-based bactericides",
+            "Use of disease-resistant peach varieties",
+            "Proper sanitation to remove infected plant debris"
+        ]
+    },
+    "Peach___healthy": {
+        "description": "Healthy peach trees exhibit vigorous growth, dark green leaves, and abundant fruit production.",
+        "symptoms": [
+            "Uniform green color of leaves",
+            "Healthy-looking peaches",
+            "No signs of lesions or discoloration"
+        ],
+        "solutions": [
+            "Proper watering and fertilization",
+            "Timely pest and disease management",
+            "Pruning to maintain tree structure and health"
+        ]
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "description": "Bacterial spot is a disease caused by *Xanthomonas euvesicatoria* that affects pepper plants.",
+        "symptoms": [
+            "Small, water-soaked spots on leaves and fruit",
+            "Spots turn brown and may have a yellow halo",
+            "Defoliation in severe cases",
+            "Sunken, irregular lesions on fruit"
+        ],
+        "solutions": [
+            "Use of disease-free seeds and transplants",
+            "Crop rotation and sanitation",
+            "Application of copper-based bactericides",
+            "Avoid overhead irrigation"
+        ]
+    },
+    "Pepper,_bell___healthy": {
+        "description": "Healthy pepper plants exhibit vigorous growth, dark green leaves, and abundant fruit production.",
+        "symptoms": [
+            "Uniform green color of leaves",
+            "Healthy-looking peppers",
+            "No signs of lesions or discoloration"
+        ],
+        "solutions": [
+            "Proper watering and fertilization",
+            "Timely pest and disease management",
+            "Use of well-drained soil"
+        ]
+    },
+    "Potato___Early_blight": {
+        "description": "Early blight is a fungal disease caused by *Alternaria solani* that affects potato plants.",
+        "symptoms": [
+            "Small, dark brown lesions on leaves with concentric rings (target-like appearance)",
+            "Lesions may enlarge and merge",
+            "Yellowing of surrounding tissue",
+            "Defoliation in severe cases"
+        ],
+        "solutions": [
+            "Crop rotation and sanitation",
+            "Use of disease-free seed potatoes",
+            "Fungicide applications (e.g., chlorothalonil, mancozeb)",
+            "Proper watering and fertilization"
+        ]
+    },
+    "Potato___Late_blight": {
+        "description": "Late blight is a devastating disease caused by the oomycete *Phytophthora infestans* that affects potato and tomato plants.",
+        "symptoms": [
+            "Irregular, water-soaked lesions on leaves, often with a white, cottony growth on the underside",
+            "Rapid spread of the disease under cool, humid conditions",
+            "Rotting of tubers",
+            "Foul odor"
+        ],
+        "solutions": [
+            "Use of disease-free seed potatoes",
+            "Fungicide applications (e.g., chlorothalonil, mancozeb)",
+            "Proper sanitation and disposal of infected plants",
+            "Monitor weather conditions and disease forecasts"
+        ]
+    },
+    "Potato___healthy": {
+        "description": "Healthy potato plants exhibit vigorous growth, dark green leaves, and abundant tuber production.",
+        "symptoms": [
+            "Uniform green color of leaves",
+            "No signs of lesions or discoloration",
+            "Robust stem growth"
+        ],
+        "solutions": [
+            "Proper watering and fertilization",
+            "Timely pest and disease management",
+            "Use of well-drained soil"
+        ]
+    },
+    "Raspberry___healthy": {
+        "description": "Healthy raspberry plants exhibit vigorous growth, dark green leaves, and abundant fruit production.",
+        "symptoms": [
+            "Uniform green color of leaves",
+            "Healthy-looking raspberries",
+            "No signs of lesions or discoloration"
+        ],
+        "solutions": [
+            "Proper watering and fertilization",
+            "Timely pest and disease management",
+            "Pruning to maintain plant structure and health"
+        ]
+    },
+    "Soybean___healthy": {
+        "description": "Healthy soybean plants exhibit vigorous growth and abundant pod production.",
+        "symptoms": [
+            "Uniform green color of leaves",
+            "Healthy-looking soybeans",
+            "No signs of lesions or discoloration"
+        ],
+        "solutions": [
+            "Proper watering and fertilization",
+            "Timely pest and disease management",
+            "Use of well-drained soil"
+        ]
+    },
+    "Squash___Powdery_mildew": {
+        "description": "Powdery mildew is a fungal disease that affects squash plants.",
+        "symptoms": [
+            "White or gray powdery spots on leaves and stems",
+            "Spots may spread to cover entire leaves",
+            "Leaves may turn yellow and dry out"
+        ],
+        "solutions": [
+            "Pruning to improve air circulation",
+            "Application of fungicides (e.g., sulfur, neem oil)",
+            "Watering plants at the base to avoid wetting foliage"
+        ]
+    },
+    "Strawberry___Leaf_scorch": {
+        "description": "Leaf scorch is a fungal disease caused by *Diplocarpon earlianum* that affects strawberry plants.",
+        "symptoms": [
+            "Small, circular, purple to reddish-brown spots on leaves",
+            "Spots may enlarge and merge, causing the leaves to appear scorched",
+            "Reduced fruit yield and quality"
+        ],
+        "solutions": [
+            "Removal of infected leaves",
+            "Application of fungicides (e.g., captan, myclobutanil)",
+            "Use of disease-resistant strawberry varieties"
+        ]
+    },
+    "Strawberry___healthy": {
+        "description": "Healthy strawberry plants exhibit vigorous growth, dark green leaves, and abundant fruit production.",
+        "symptoms": [
+            "Uniform green color of leaves",
+            "Healthy-looking strawberries",
+            "No signs of lesions or discoloration"
+        ],
+        "solutions": [
+            "Proper watering and fertilization",
+            "Timely pest and disease management",
+            "Use of well-drained soil"
+        ]
+    },
+    "Tomato___Bacterial_spot": {
+        "description": "Bacterial spot is a disease caused by *Xanthomonas perforans* that affects tomato plants.",
+        "symptoms": [
+            "Small, water-soaked spots on leaves and fruit",
+            "Spots turn brown and may have a yellow halo",
+            "Lesions on fruit may be slightly raised and scabby"
+        ],
+        "solutions": [
+            "Use of disease-free seeds and transplants",
+            "Crop rotation and sanitation",
+            "Application of copper-based bactericides",
+            "Avoid overhead irrigation"
+        ]
+    },
+    "Tomato___Early_blight": {
+        "description": "Early blight is a fungal disease caused by *Alternaria solani* that affects tomato plants.",
+        "symptoms": [
+            "Small, dark brown lesions on leaves with concentric rings (target-like appearance)",
+            "Lesions may enlarge and merge",
+            "Yellowing of surrounding tissue",
+            "Defoliation in severe cases"
+        ],
+        "solutions": [
+            "Crop rotation and sanitation",
+            "Use of disease-free transplants",
+            "Fungicide applications (e.g., chlorothalonil, mancozeb)",
+            "Proper watering and fertilization"
+        ]
+    },
+    "Tomato___Late_blight": {
+        "description": "Late blight is a devastating disease caused by the oomycete *Phytophthora infestans* that affects tomato and potato plants.",
+        "symptoms": [
+            "Irregular, water-soaked lesions on leaves, often with a white, cottony growth on the underside",
+            "Rapid spread of the disease under cool, humid conditions",
+            "Fruit rot",
+            "Foul odor"
+        ],
+        "solutions": [
+            "Use of disease-free transplants",
+            "Fungicide applications (e.g., chlorothalonil, mancozeb)",
+            "Proper sanitation and disposal of infected plants",
+            "Monitor weather conditions and disease forecasts"
+        ]
+    },
+    "Tomato___Leaf_Mold": {
+        "description": "Leaf mold is a fungal disease caused by *Passalora fulva* that affects tomato plants, especially in humid environments.",
+        "symptoms": [
+            "Pale green or yellowish areas on the upper surface of older leaves",
+            "Grayish-purple mold on the lower surface of leaves",
+            "Severe infections can lead to defoliation"
+        ],
+        "solutions": [
+            "Improve air circulation by pruning",
+            "Water plants at the base to avoid wetting foliage",
+            "Fungicide applications (e.g., chlorothalonil, mancozeb)",
+            "Use of resistant tomato varieties"
+        ]
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "description": "Septoria leaf spot is a fungal disease caused by *Septoria lycopersici* that affects tomato plants.",
+        "symptoms": [
+            "Small, circular spots on leaves with a dark border and a light tan center",
+            "Numerous spots can cause yellowing and defoliation",
+            "Spots may also appear on stems and petioles"
+        ],
+        "solutions": [
+            "Crop rotation and sanitation",
+            "Removal of infected leaves",
+            "Fungicide applications (e.g., chlorothalonil, mancozeb)",
+            "Proper watering and fertilization"
+        ]
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "description": "Spider mites are tiny pests that can infest tomato plants, causing damage to leaves.",
+        "symptoms": [
+            "Fine webbing on leaves",
+            "Small, yellow or white spots on leaves",
+            "Stippled or bronzed appearance of leaves",
+            "Reduced plant vigor"
+        ],
+        "solutions": [
+            "Horticultural oil or insecticidal soap",
+            "Strong spray of water to dislodge mites",
+            "Biological control with predatory mites",
+            "Proper watering and fertilization"
+        ]
+    },
+    "Tomato___Target_Spot": {
+        "description": "Target spot is a fungal disease caused by *Corynespora cassiicola* that affects tomato plants.",
+        "symptoms": [
+            "Small, circular spots on leaves with concentric rings (target-like appearance)",
+            "Lesions may enlarge and merge",
+            "Defoliation in severe cases",
+            "Fruit lesions are less common"
+        ],
+        "solutions": [
+            "Crop rotation and sanitation",
+            "Removal of infected leaves",
+            "Fungicide applications (e.g., chlorothalonil, mancozeb)",
+            "Proper watering and fertilization"
+        ]
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "description": "Tomato mosaic virus (ToMV) is a viral disease that affects tomato plants.",
+        "symptoms": [
+            "Mottled or mosaic pattern on leaves",
+            "Stunted growth",
+            "Distorted or curled leaves",
+            "Reduced fruit yield and quality"
+        ],
+        "solutions": [
+            "Use of virus-free seeds and transplants",
+            "Sanitation and disinfection of tools",
+            "Control of insect vectors (e.g., aphids)",
+            "Removal of infected plants"
+        ]
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "description": "Tomato yellow leaf curl virus (TYLCV) is a viral disease transmitted by whiteflies that affects tomato plants.",
+        "symptoms": [
+            "Upward curling and yellowing of leaves",
+            "Stunted growth",
+            "Reduced fruit set",
+            "Bushy appearance"
+        ],
+        "solutions": [
+            "Control of whiteflies with insecticides",
+            "Use of virus-free transplants",
+            "Row covers to protect young plants",
+            "Removal of infected plants"
+        ]
+    },
+    "Tomato___healthy": {
+        "description": "Healthy tomato plants exhibit vigorous growth, dark green leaves, and abundant fruit production.",
+        "symptoms": [
+            "Uniform green color of leaves",
+            "Healthy-looking tomatoes",
+            "No signs of lesions or discoloration"
+        ],
+        "solutions": [
+            "Proper watering and fertilization",
+            "Timely pest and disease management",
+            "Use of well-drained soil"
+        ]
+    }
+}
